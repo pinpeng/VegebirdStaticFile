@@ -40,10 +40,12 @@ namespace StaticFileServer
 
             const string cacheMaxAge = "604800";
 
+            var path = Path.Combine(Configuration["StaticFilePath"]);
+            if (!Directory.Exists(path)) Directory.CreateDirectory(path);
+
             app.UseStaticFiles(new StaticFileOptions
             {
-                FileProvider = new PhysicalFileProvider(
-                    Path.Combine(env.ContentRootPath, "MyStaticFiles")),
+                FileProvider = new PhysicalFileProvider(path),
                 RequestPath = "/StaticFiles",
                 OnPrepareResponse = ctx =>
                  {

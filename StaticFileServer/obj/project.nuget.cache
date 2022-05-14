@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iuXKr5aH+k+XnbYqEITyFwb+/gwPAyNzCyBSpiO/VjS0wBsLb4nIZTJWXa77JQrqE8mmH9krluh09IjHzhpyCA==",
+  "dgSpecHash": "KVp4GGRlFbw2DDyBp5NE8krclTmPFbraKyv2UW/EGrw+0VHVEDJEbr29or45iVhHhDHM5evJPVfQKFbBgpiSTA==",
   "success": true,
-  "projectFilePath": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer\\StaticFileServer.csproj",
+  "projectFilePath": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seand\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],

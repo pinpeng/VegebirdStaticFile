@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer\\StaticFileServer.csproj": {}
+    "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer.csproj": {}
   },
   "projects": {
-    "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer\\StaticFileServer.csproj": {
+    "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer\\StaticFileServer.csproj",
+        "projectUniqueName": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer.csproj",
         "projectName": "StaticFileServer",
-        "projectPath": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer\\StaticFileServer.csproj",
+        "projectPath": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer.csproj",
         "packagesPath": "C:\\Users\\seand\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\StaticFileServer\\obj\\",
+        "outputPath": "D:\\code\\VegebirdStaticFile\\StaticFileServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
